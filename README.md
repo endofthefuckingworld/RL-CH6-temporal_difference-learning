@@ -1,1 +1,1 @@
-# RL-CH6-temporal_difference-learning
+# RL-CH6-temporal_difference_learning
